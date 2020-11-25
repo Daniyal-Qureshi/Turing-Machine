@@ -1,0 +1,48 @@
+q0
+q7
+null
+a b c
+q0 (b,b,R) q0
+q0 (c,c,R) q0
+q0 (x,x,R) q0
+q0 (y,y,R) q0
+q0 (z,z,R) q0
+q0 (a,x,L) q1
+q0 ( , ,L) q6
+q1 (a,a,L) q1
+q1 (b,b,L) q1
+q1 (c,c,L) q1
+q1 (x,x,L) q1
+q1 (y,y,L) q1
+q1 (z,z,L) q1
+q1 ( , ,R) q2
+q2 (a,a,R) q2
+q2 (c,c,R) q2
+q2 (x,x,R) q2
+q2 (y,y,R) q2
+q2 (z,z,R) q2
+q2 (b,y,L) q3
+q3 (a,a,L) q3
+q3 (b,b,L) q3
+q3 (c,c,L) q3
+q3 (x,x,L) q3
+q3 (y,y,L) q3
+q3 (z,z,L) q3
+q3 ( , ,R) q4
+q4 (a,a,R) q4
+q4 (b,b,R) q4
+q4 (c,z,L) q5
+q4 (x,x,R) q4
+q4 (y,y,R) q4
+q4 (z,z,R) q4
+q5 (a,a,L) q5
+q5 (b,b,L) q5
+q5 (c,c,L) q5
+q5 (x,x,L) q5
+q5 (y,y,L) q5
+q5 (z,z,L) q5
+q5 ( , ,R) q0
+q6 (x,x,L) q6
+q6 (y,y,L) q6
+q6 (z,z,L) q6
+q6 ( , ,R) q7
